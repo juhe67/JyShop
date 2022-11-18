@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    background-color: #eaeaea;
+    font-family: 'Poppins', sans-serif;
+    color: #2d2d2d;
+    font-size: 14px;
+}
+
+/* NAVBAR */
+.form-control {
+    font-size: 14px;
+}
+
+@media screen {
+.form-control {
+    width: 350px;
+}
+}
+
+@media screen {
+.navbar-nav{
+  text-align: center; 
+} 
+}
+
+/* NAVBAR END*/
+
+/* STYLE CATEGORIES */
+.img-categori {
+    width: 50px;
+  }
+  
+  .row-container {
+    background-color: #fff;
+    text-align: justify;
+    margin: 0px;
+  }
+  .text-judul {
+    text-align: center;
+  }
+  
+  /* STYLE CATEGORIES */
+/* PRODUCT */
+.row-product {
+    background-color: #fff;
+    margin: 0;
+    padding: 5px;
+    padding-top: 24px;
+}
+
+.row-caption {
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px 0px #000 ;
+}
+/* PRODUCT END */
+
+/* GARIS NAME */
+.garis-name {
+    border-bottom: 2px solid #2d2d2d;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+/* GARIS NAME end */
+
+/* CONTACT */
+.row-product {
+    background-color: #fff;
+    margin: 0;
+    padding: 5px;
+    padding-top: 16px;
+}
+
+.row-caption {
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px 0px #000 ;
+}
+
+/* CONTACT END */
+
+
+
+
